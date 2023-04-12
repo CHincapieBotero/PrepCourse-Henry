@@ -1,3 +1,3 @@
-Camilo Hincapie
+Camilo Hincapie B.
 
-Este es un repositorio de prueba para clonarlo desde github a mi computadora
+Este es un repositorio de prueba para clonarlo desde github a mi computadora...
